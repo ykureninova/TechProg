@@ -2,4 +2,9 @@
 !lab1.txt
 build/
 doc/*.txt
-
+*.pdf
+*.png
+lab/
+!lab1.pdf
+!lab1.png
+folder/
