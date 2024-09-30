@@ -1,0 +1,5 @@
+*.txt
+!lab1.txt
+build/
+doc/*.txt
+
